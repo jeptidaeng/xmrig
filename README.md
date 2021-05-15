@@ -1,0 +1,2 @@
+# miner
+Veruscoin.sh
