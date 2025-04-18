@@ -1,5 +1,5 @@
-#Veruscoin.sh
-sudo apt update
-wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
-tar xf hellminer_cpu_linux.tar.gz
-./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RUzTg4FgtbfkhDjyRDVEL9wjWi6gvqaYP1.bangcemet -p x --cpu 3
+#xmrig.sh
+apt update
+wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-focal-x64.tar.gz
+tar xf xmrig-6.22.2-focal-x64.tar.gz
+
